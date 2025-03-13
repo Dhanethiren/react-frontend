@@ -1,1 +1,11 @@
 alo
+i have the basic code for the react
+just the basic login to student and tutor (zero design)
+
+step 1 create a new folder to the react file (in vscode)
+step 2 in that folder install react (you need node, if not instal pls  install) by running the command npm install react react-dom
+step 3 after installing create a react project by running tis npx create-react-app my-app
+step 4 after tat a folder named my-app will be creted open it
+step 5 in that folder there will be a file named src that is where we will work
+
+tanks for reading
