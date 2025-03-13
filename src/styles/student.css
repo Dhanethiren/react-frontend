@@ -1,0 +1,13 @@
+/* styles/student.css */
+.student-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f8ff;
+  }
+  
+  h2 {
+    color: #2f4f4f;
+  }
+  
